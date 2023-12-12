@@ -7,9 +7,9 @@
 ## Table of Contents
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
-    <% for(let repo of repositories) { %>
-    - [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> <% } %>
+<% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> <% } %>
 <% } %>
 
 ## Thanks
--generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+- generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
