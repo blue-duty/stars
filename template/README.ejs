@@ -11,7 +11,7 @@
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
 <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>){:target="_blank"} - <%= repo.description %> <% } %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> <% } %>
 <% } %>
 
 ## Thanks
