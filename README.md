@@ -21,14 +21,14 @@
 - [V](#v)
 - [Pascal](#pascal)
 - [Shell](#shell)
-- [C++](#c++)
+- [C++](#c)
 - [Vim Script](#vim-script)
 - [Dart](#dart)
 - [Go](#go)
-- [C](#c)
+- [C](#c-1)
 - [Vue](#vue)
 - [Jupyter Notebook](#jupyter-notebook)
-- [C#](#c#)
+- [C#](#c-2)
 
 ---
 
