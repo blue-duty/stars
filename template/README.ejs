@@ -7,6 +7,11 @@
 </div>
 <br />
 
+## Recent Seven Days Stars
+
+<% for(let repo of recentStars) { %>- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> - <%= repo.language %> - <%= repo.starred_at %>
+
+
 ## Table of Contents
 <% for(let [language, repositories] of stars) { %>
 ## <%= language %>
