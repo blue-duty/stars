@@ -8,8 +8,6 @@
 </div>
 <br />
 
-## Recent Seven Days Stars
-
 ## Table of Contents
 
 *   [Thanks](#thanks)
