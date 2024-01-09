@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Rust](#rust)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -46,91 +46,9 @@
 *   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## JavaScript
-
-*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-*   [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-*   [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
-*   [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-*   [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-*   [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-*   [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-*   [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-*   [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
-*   [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-*   [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
-*   [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
-*   [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
-*   [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
-*   [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
-*   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
-*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
-*   [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
-
-## C
-
-*   [FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit) - iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
-*   [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-*   [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
-*   [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
-## Rust
-
-*   [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-*   [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-*   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
-*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [Zxilly/go-size-view](https://github.com/Zxilly/go-size-view) - A tool for analysing the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-## Shell
-
-*   [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
-*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-*   [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
-*   [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
-*   [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
-*   [maomao1996/mm-notes](https://github.com/maomao1996/mm-notes) - 茂茂物语: 各种笔记记录（想到啥写啥系列）
-*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-*   [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-*   [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
-*   [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
-
 ## miscellaneous
 
+*   [devhx/airport](https://github.com/devhx/airport) -
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 *   [findingsea/jike-third-party-developer](https://github.com/findingsea/jike-third-party-developer) - 即刻第三方开发者与项目
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -151,6 +69,7 @@
 *   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
 *   [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+*   [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 *   [SharathRaju489/UiPath](https://github.com/SharathRaju489/UiPath) - UiPath Examples
 *   [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 *   [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -182,51 +101,9 @@
 *   [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 *   [glycerine/thinkgo](https://github.com/glycerine/thinkgo) - Think Go. Pointers and resources for learning Go. Go (golang) is an elegant, fast, and rapid development language.
 
-## TypeScript
-
-*   [zerolab-fe/awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs) - ⚡优质的 Node.js 包和资源
-*   [open-jike/jike-sdk](https://github.com/open-jike/jike-sdk) - Ⓙ Jike SDK for Node.js / Deno / browser
-*   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-*   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-*   [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-*   [DeepLcom/deepl-node](https://github.com/DeepLcom/deepl-node) - Official Node.js library for the DeepL language translation API.
-*   [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-*   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-*   [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
-*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
-*   [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
-*   [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-*   [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
-*   [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-*   [Kffhi/flomo-react](https://github.com/Kffhi/flomo-react) - flomo网页版，一个基于Slate的富文本编辑器
-*   [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-*   [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-*   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-*   [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-*   [AnoyiX/chatgpt-ui](https://github.com/AnoyiX/chatgpt-ui) - An open source ChatGPT UI.
-*   [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-*   [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
-*   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-*   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
-*   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-*   [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
-*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
-*   [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
-*   [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
-*   [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
-
 ## Go
 
+*   [labstack/gommon](https://github.com/labstack/gommon) - Common packages for Go
 *   [twgh/xcgui](https://github.com/twgh/xcgui) - 炫彩界面库. Go GUI library. Golang bindings for XCGUI, Windows GUI library, DirectUI design idea.
 *   [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 *   [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
@@ -450,7 +327,131 @@
 *   [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
 *   [lukasjarosch/go-docx](https://github.com/lukasjarosch/go-docx) - Replace placeholders inside docx documents with speed and confidence.
 *   [gingfrederik/docx](https://github.com/gingfrederik/docx) - Simple pure Go (golang) library for creating DOCX file
-*   [legion-zver/go-docx-templates](https://github.com/legion-zver/go-docx-templates) -
+
+## JavaScript
+
+*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+*   [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
+*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+*   [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
+*   [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+*   [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+*   [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+*   [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+*   [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
+*   [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+*   [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
+*   [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+*   [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
+*   [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+*   [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
+*   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
+*   [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
+*   [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
+
+## C
+
+*   [FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit) - iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
+*   [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+*   [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+*   [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+
+## Rust
+
+*   [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+*   [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+*   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
+*   [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [Zxilly/go-size-view](https://github.com/Zxilly/go-size-view) - A tool for analysing the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+## Shell
+
+*   [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
+*   [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+*   [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+*   [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
+*   [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
+*   [maomao1996/mm-notes](https://github.com/maomao1996/mm-notes) - 茂茂物语: 各种笔记记录（想到啥写啥系列）
+*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+*   [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+*   [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
+*   [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
+
+## TypeScript
+
+*   [zerolab-fe/awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs) - ⚡优质的 Node.js 包和资源
+*   [open-jike/jike-sdk](https://github.com/open-jike/jike-sdk) - Ⓙ Jike SDK for Node.js / Deno / browser
+*   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+*   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+*   [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+*   [DeepLcom/deepl-node](https://github.com/DeepLcom/deepl-node) - Official Node.js library for the DeepL language translation API.
+*   [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+*   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+*   [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+*   [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+*   [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+*   [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
+*   [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+*   [Kffhi/flomo-react](https://github.com/Kffhi/flomo-react) - flomo网页版，一个基于Slate的富文本编辑器
+*   [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+*   [Hufe921/canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+*   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+*   [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+*   [AnoyiX/chatgpt-ui](https://github.com/AnoyiX/chatgpt-ui) - An open source ChatGPT UI.
+*   [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+*   [ddiu8081/ddiu.io](https://github.com/ddiu8081/ddiu.io) - Personal website.
+*   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+*   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
+*   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+*   [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+*   [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
+*   [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
+*   [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 
 ## Kotlin
 
@@ -602,7 +603,6 @@
 *   [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 *   [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
-*   [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
 
 ## Smali
 
