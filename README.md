@@ -48,6 +48,7 @@
 
 ## Go
 
+*   [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
 *   [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for CLI
 *   [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 *   [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
@@ -271,7 +272,6 @@
 *   [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 *   [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
 *   [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
-*   [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
 
 ## miscellaneous
 
