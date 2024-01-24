@@ -10,20 +10,20 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [CSS](#css)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [Vue](#vue)
-*   [C](#c-2)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
@@ -45,8 +45,26 @@
 *   [V](#v)
 *   [Thanks](#thanks)
 
+## C
+
+*   [nir9/lightwm](https://github.com/nir9/lightwm) - Minimalist Window Manager for Microsoft Windows
+*   [FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit) - iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
+*   [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+*   [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+*   [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+
 ## Go
 
+*   [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
+*   [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+*   [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 *   [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs.
 *   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 *   [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
@@ -266,7 +284,6 @@
 *   [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态
 *   [royalrick/weapp](https://github.com/royalrick/weapp) - 微信小程序服务端 SDK (for Golang)
 *   [xmgtony/apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产级可用golang api服务端(基于gin)
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## Rust
 
@@ -291,7 +308,6 @@
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## CSS
 
@@ -329,13 +345,12 @@
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 *   [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 *   [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 *   [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 
 ## Jupyter Notebook
 
 *   [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
-*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 *   [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 
 ## C\#
@@ -353,6 +368,7 @@
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 *   [zerolab-fe/awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs) - ⚡优质的 Node.js 包和资源
 *   [open-jike/jike-sdk](https://github.com/open-jike/jike-sdk) - Ⓙ Jike SDK for Node.js / Deno / browser
+*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 *   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 *   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 *   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
@@ -515,21 +531,6 @@
 *   [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
-## C
-
-*   [FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit) - iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
-*   [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-*   [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [antirez/botlib](https://github.com/antirez/botlib) - C Telegram bot framework
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-*   [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-*   [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
-*   [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
 ## Shell
 
 *   [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
@@ -638,7 +639,6 @@
 ## Makefile
 
 *   [moul/http2curl](https://github.com/moul/http2curl) - :triangular\_ruler: Convert Golang's http.Request to CURL command line
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## V
 
