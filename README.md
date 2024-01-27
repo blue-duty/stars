@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Vue](#vue)
 * [Go](#go)
 * [C++](#c)
 * [C](#c-1)
@@ -23,7 +24,6 @@
 * [miscellaneous](#miscellaneous)
 * [PowerShell](#powershell)
 * [Ruby](#ruby)
-* [Vue](#vue)
 * [Shell](#shell)
 * [Kotlin](#kotlin)
 * [PHP](#php)
@@ -45,8 +45,19 @@
 * [V](#v)
 * [Thanks](#thanks)
 
+## Vue
+
+* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+* [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
+* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
+* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
 ## Go
 
+* [rodaine/table](https://github.com/rodaine/table) - Go CLI Table Generator
+* [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
 * [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 * [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
 * [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
@@ -268,7 +279,6 @@
 * [Q1mi/bubble](https://github.com/Q1mi/bubble) - a sample demo base on gin and gorm.
 * [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
 * [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
-* [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 
 ## C++
 
@@ -415,7 +425,6 @@
 * [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 * [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 * [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-* [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 
 ## JavaScript
 
@@ -521,15 +530,6 @@
 * [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 * [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 * [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
-* [blackstorm/goose](https://github.com/blackstorm/goose) - 🦆 Goose🐦 is a simple and lightweight text style blog application.
-
-## Vue
-
-* [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
-* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
-* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
-* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## Shell
 
