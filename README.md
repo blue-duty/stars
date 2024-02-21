@@ -10,11 +10,14 @@
 
 ## Table of Contents
 
-* [JavaScript](#javascript)
 * [Go](#go)
+* [Java](#java)
+* [Zig](#zig)
+* [Kotlin](#kotlin)
+* [PowerShell](#powershell)
+* [JavaScript](#javascript)
 * [C#](#c)
 * [miscellaneous](#miscellaneous)
-* [Java](#java)
 * [Shell](#shell)
 * [C](#c-1)
 * [Python](#python)
@@ -22,12 +25,10 @@
 * [Rust](#rust)
 * [Crystal](#crystal)
 * [Nim](#nim)
-* [Kotlin](#kotlin)
 * [TypeScript](#typescript)
 * [Vue](#vue)
 * [CSS](#css)
 * [Jupyter Notebook](#jupyter-notebook)
-* [PowerShell](#powershell)
 * [Ruby](#ruby)
 * [PHP](#php)
 * [Dart](#dart)
@@ -48,38 +49,9 @@
 * [Lua](#lua)
 * [Thanks](#thanks)
 
-## JavaScript
-
-* [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
-* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-* [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
-* [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-* [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-* [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-* [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
-* [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-* [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-* [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-* [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
-* [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-* [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
-* [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
-* [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
-* [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-* [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
-* [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
-* [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
-* [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
-* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
-* [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
-
 ## Go
 
+* [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高度可控可拓展的自动化引擎
 * [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 * [antlabs/greatws](https://github.com/antlabs/greatws) - 100w连接仅需550-750MB内存，针对海量连接特别优化的websocket库(kqueue, epoll)，高性能，callback写法-优化中。。。
 * [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -346,7 +318,80 @@
 * [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
 * [lukasjarosch/go-docx](https://github.com/lukasjarosch/go-docx) - Replace placeholders inside docx documents with speed and confidence.
 * [gingfrederik/docx](https://github.com/gingfrederik/docx) - Simple pure Go (golang) library for creating DOCX file
-* [legion-zver/go-docx-templates](https://github.com/legion-zver/go-docx-templates) -
+
+## Java
+
+* [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署
+* [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
+* [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+* [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+* [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
+* [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+* [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+* [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+* [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+* [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
+
+## Zig
+
+* [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## Kotlin
+
+* [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+* [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+* [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+* [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
+
+## PowerShell
+
+* [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+* [Kugane/winget](https://github.com/Kugane/winget) - A Winget script to automatically install predefined programs and MS Store apps. Includes automatic update and cleanup job
+* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
+* [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
+* [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
+* [microsoft/PSToolset](https://github.com/microsoft/PSToolset) - Set of tools for Powershell environment
+* [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
+* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
+* [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
+* [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
+## JavaScript
+
+* [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+* [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
+* [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+* [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+* [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
+* [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
+* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+* [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+* [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+* [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
+* [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+* [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
+* [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
+* [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
+* [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+* [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
+* [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+* [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
+* [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
+* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
+* [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
 
 ## C\#
 
@@ -426,21 +471,6 @@
 * [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 * [glycerine/thinkgo](https://github.com/glycerine/thinkgo) - Think Go. Pointers and resources for learning Go. Go (golang) is an elegant, fast, and rapid development language.
 
-## Java
-
-* [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
-* [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-* [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-* [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
-* [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
-* [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
-* [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
-* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-* [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
-* [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-
 ## Shell
 
 * [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
@@ -513,7 +543,6 @@
 * [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
-* [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 
 ## C++
 
@@ -557,8 +586,6 @@
 * [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 * [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-* [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## Crystal
 
@@ -567,14 +594,6 @@
 ## Nim
 
 * [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-
-## Kotlin
-
-* [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
-* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-* [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-* [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
 ## TypeScript
 
@@ -585,7 +604,6 @@
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 * [zerolab-fe/awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs) - ⚡优质的 Node.js 包和资源
 * [open-jike/jike-sdk](https://github.com/open-jike/jike-sdk) - Ⓙ Jike SDK for Node.js / Deno / browser
-* [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 * [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 * [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 * [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
@@ -634,7 +652,6 @@
 * [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 * [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
-* [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
 
 ## CSS
 
@@ -646,21 +663,8 @@
 ## Jupyter Notebook
 
 * [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
+* [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 * [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-
-## PowerShell
-
-* [Kugane/winget](https://github.com/Kugane/winget) - A Winget script to automatically install predefined programs and MS Store apps. Includes automatic update and cleanup job
-* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
-* [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-* [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
-* [microsoft/PSToolset](https://github.com/microsoft/PSToolset) - Set of tools for Powershell environment
-* [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
-* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
-* [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
-* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-* [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
-* [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Ruby
 
