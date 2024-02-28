@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-* [Rust](#rust)
 * [Go](#go)
+* [Rust](#rust)
 * [miscellaneous](#miscellaneous)
 * [HTML](#html)
 * [C#](#c)
@@ -49,37 +49,10 @@
 * [Lua](#lua)
 * [Thanks](#thanks)
 
-## Rust
-
-* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
-* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-* [zeyios/weread-pc](https://github.com/zeyios/weread-pc) - 基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。
-* [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
-* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-* [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-* [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-* [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-* [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-* [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-* [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-* [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-* [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
-* [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
-* [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-* [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-* [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
 ## Go
 
+* [jkstack/agent-server](https://github.com/jkstack/agent-server) - jkstack agent统一管理服务
+* [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 * [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 * [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高度可控可拓展的自动化引擎
 * [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
@@ -340,7 +313,35 @@
 * [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 * [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
-* [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
+
+## Rust
+
+* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* [zeyios/weread-pc](https://github.com/zeyios/weread-pc) - 基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。
+* [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+* [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+* [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+* [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+* [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+* [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+* [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+* [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
+* [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+* [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+* [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+* [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## miscellaneous
 
@@ -471,7 +472,7 @@
 * [DeepLcom/deepl-node](https://github.com/DeepLcom/deepl-node) - Official Node.js library for the DeepL language translation API.
 * [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 * [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-* [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+* [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 * [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 * [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
@@ -499,7 +500,6 @@
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 * [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
 * [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
-* [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 
 ## Java
 
