@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Swift](#swift)
 * [Go](#go)
 * [JavaScript](#javascript)
 * [Rust](#rust)
@@ -47,6 +48,10 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Swift
+
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## Go
 
@@ -310,7 +315,6 @@
 * [gphper/ginadmin](https://github.com/gphper/ginadmin) - 基于Gin开发的后台脚手架，集成了、数据库操作、日志管理、权限分配管理、多模板页面、自动分页器、数据库迁移和填充、Docker集成部署等功能、静态资源打包
 * [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
 * [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
-* [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
 
 ## JavaScript
 
