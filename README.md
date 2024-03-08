@@ -27,6 +27,7 @@
 * [Zig](#zig)
 * [Kotlin](#kotlin)
 * [PowerShell](#powershell)
+* [Scala](#scala)
 * [Crystal](#crystal)
 * [Nim](#nim)
 * [Vue](#vue)
@@ -74,6 +75,7 @@
 * [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 * [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 * [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 * [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
 * [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
@@ -491,7 +493,6 @@
 * [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 * [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 * [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 * [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 * [zeyios/weread-pc](https://github.com/zeyios/weread-pc) - 基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。
 * [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
@@ -553,7 +554,6 @@
 * [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 * [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 * [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 * [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 * [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
@@ -624,7 +624,7 @@
 * [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 * [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 * [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 * [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 * [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
@@ -657,6 +657,10 @@
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 * [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
+## Scala
+
+* [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 
 ## Crystal
 
