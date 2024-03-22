@@ -10,17 +10,18 @@
 
 ## Table of Contents
 
+* [C#](#c)
+* [Vue](#vue)
 * [JavaScript](#javascript)
 * [Python](#python)
-* [C](#c)
+* [C](#c-1)
 * [PowerShell](#powershell)
 * [TypeScript](#typescript)
-* [C++](#c-1)
+* [C++](#c-2)
 * [miscellaneous](#miscellaneous)
 * [Rust](#rust)
 * [Go](#go)
 * [Lua](#lua)
-* [C#](#c-2)
 * [Shell](#shell)
 * [Dart](#dart)
 * [CSS](#css)
@@ -33,7 +34,6 @@
 * [Scala](#scala)
 * [Crystal](#crystal)
 * [Nim](#nim)
-* [Vue](#vue)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Ruby](#ruby)
 * [PHP](#php)
@@ -50,6 +50,35 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## C\#
+
+* [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+* [tangmanger/PackageEasy](https://github.com/tangmanger/PackageEasy) - 基于Nsis的可视化打包工具
+* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+* [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+* [kingpeter2015/QTTabBar](https://github.com/kingpeter2015/QTTabBar) - A continouation of the orignal QTTabBar, which delivers Tabs for the windows Explorer, aiming to fix at least some bugs
+* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+* [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+* [MScholtes/Win-PS2EXE](https://github.com/MScholtes/Win-PS2EXE) - Graphical frontend to PS1-to-EXE-compiler PS2EXE.ps1
+* [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
+* [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+* [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+* [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+## Vue
+
+* [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
+* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+* [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
+* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
+* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
+* [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
 
 ## JavaScript
 
@@ -298,7 +327,7 @@
 * [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 * [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [Lenvia/job-pre](https://github.com/Lenvia/job-pre) - 面试准备：算法+后端+编程题
+* [Lenvia/job-pre](https://github.com/Lenvia/job-pre) - 能够覆盖校招90%后端面试的资源库
 * [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 * [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集
 * [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
@@ -664,29 +693,11 @@
 * [krishnarajvr/microservice-mono-gin-gorm](https://github.com/krishnarajvr/microservice-mono-gin-gorm) -
 * [shenghui0779/sdk-go](https://github.com/shenghui0779/sdk-go) - 第三方应用 Go SDK
 * [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-* [LanceLRQ/helang-go](https://github.com/LanceLRQ/helang-go) - Helang, the next generation CYBER programming language!
-* [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
 
 ## Lua
 
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-
-## C\#
-
-* [tangmanger/PackageEasy](https://github.com/tangmanger/PackageEasy) - 基于Nsis的可视化打包工具
-* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-* [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-* [kingpeter2015/QTTabBar](https://github.com/kingpeter2015/QTTabBar) - A continouation of the orignal QTTabBar, which delivers Tabs for the windows Explorer, aiming to fix at least some bugs
-* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-* [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
-* [MScholtes/Win-PS2EXE](https://github.com/MScholtes/Win-PS2EXE) - Graphical frontend to PS1-to-EXE-compiler PS2EXE.ps1
-* [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
-* [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-* [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
-* [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 
 ## Shell
 
@@ -784,17 +795,6 @@
 ## Nim
 
 * [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-
-## Vue
-
-* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
-* [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
-* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
-* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
-* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
-* [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
 
 ## Jupyter Notebook
 
