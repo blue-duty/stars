@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [PHP](#php)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Python](#python)
 * [miscellaneous](#miscellaneous)
@@ -36,7 +37,6 @@
 * [Crystal](#crystal)
 * [Nim](#nim)
 * [Ruby](#ruby)
-* [PHP](#php)
 * [Vim Script](#vim-script)
 * [Vim script](#vim-script-1)
 * [Vala](#vala)
@@ -51,6 +51,11 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## PHP
+
+* [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+* [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 
 ## Jupyter Notebook
 
@@ -582,14 +587,12 @@
 * [legion-zver/go-docx-templates](https://github.com/legion-zver/go-docx-templates) -
 * [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 * [golang/go](https://github.com/golang/go) - The Go programming language
-* [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 
 ## Vue
 
 * [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 * [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 * [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 * [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
 * [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -614,7 +617,7 @@
 
 ## TypeScript
 
-* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers.
+* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，还涵盖离线文档与代码转换等实用功能。
 * [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 * [Codennnn/Apifox-UI](https://github.com/Codennnn/Apifox-UI) - 精心仿制 Apifox 界面，使用 Next + Antd + TailwindCSS 开发，源码融入了很多好的编码实践，非常适合 React 新手学习！
 * [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -640,6 +643,7 @@
 * [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 * [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 * [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+* [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 * [epicweb-dev/full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
 * [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -808,10 +812,6 @@
 * [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 * [blackstorm/goose](https://github.com/blackstorm/goose) - 🦆 Goose🐦 is a simple and lightweight text style blog application.
 * [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## PHP
-
-* [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 
 ## Vim Script
 
