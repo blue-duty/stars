@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Swift](#swift)
 * [PHP](#php)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Python](#python)
@@ -28,7 +29,6 @@
 * [Shell](#shell)
 * [Dart](#dart)
 * [CSS](#css)
-* [Swift](#swift)
 * [HTML](#html)
 * [Java](#java)
 * [Zig](#zig)
@@ -51,6 +51,11 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Swift
+
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## PHP
 
@@ -586,7 +591,6 @@
 * [gingfrederik/docx](https://github.com/gingfrederik/docx) - Simple pure Go (golang) library for creating DOCX file
 * [legion-zver/go-docx-templates](https://github.com/legion-zver/go-docx-templates) -
 * [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
-* [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## Vue
 
@@ -617,7 +621,7 @@
 
 ## TypeScript
 
-* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，还涵盖离线文档与代码转换等实用功能。
+* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，更涵盖代码分析转换解析及离线文档等实用功能
 * [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 * [Codennnn/Apifox-UI](https://github.com/Codennnn/Apifox-UI) - 精心仿制 Apifox 界面，使用 Next + Antd + TailwindCSS 开发，源码融入了很多好的编码实践，非常适合 React 新手学习！
 * [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -747,10 +751,6 @@
 * [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 * [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 * [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
-
-## Swift
-
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## HTML
 
