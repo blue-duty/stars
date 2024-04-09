@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-* [Python](#python)
 * [Go](#go)
+* [Python](#python)
 * [Visual Basic .NET](#visual-basic-net)
 * [miscellaneous](#miscellaneous)
 * [TypeScript](#typescript)
@@ -53,60 +53,9 @@
 * [V](#v)
 * [Thanks](#thanks)
 
-## Python
-
-* [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
-* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
-* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-* [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-* [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
-* [aerodynamics-py/WEATHER\_STATION\_PI](https://github.com/aerodynamics-py/WEATHER_STATION_PI) - A simple weater station
-* [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-* [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
-* [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-* [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for devs to automate automation
-* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
-* [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
-* [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-* [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-* [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
-* [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
-* [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
-* [Sorosliu1029/Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro) - :metro: 即刻 Ⓙ SDK
-* [errord/chbook\_jtoh](https://github.com/errord/chbook_jtoh) - chrome bookmarks json to html
-* [H-T-H/Gemini-Telegram-Bot](https://github.com/H-T-H/Gemini-Telegram-Bot) - 用Gemini API实现的Telegram机器人          A Telegram Bot using Gemini API
-* [yihong0618/tg\_bot\_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
-* [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-* [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
-* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-* [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
-* [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-* [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
-* [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
-* [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-* [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
-* [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
-* [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
-* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
-* [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
-* [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
-* [AutohomeRadar/Windows-Agent](https://github.com/AutohomeRadar/Windows-Agent) - Windows agent of Open-Falcon Monitor System
-* [jumpserver/applets](https://github.com/jumpserver/applets) - JumpServer Applet Demo Project
-* [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-* [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-* [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-* [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 企业微信、微信 公众号、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-* [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
-* [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
-* [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
-
 ## Go
 
+* [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
 * [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the Web or Microservice
 * [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
@@ -390,7 +339,58 @@
 * [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 * [jung-kurt/gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 * [srinathh/gooxml](https://github.com/srinathh/gooxml) - Pure go library for creating Office Open/OOXML/ECMA-376 documents (.docx, .xlsx, .pptx)
-* [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
+
+## Python
+
+* [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+* [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+* [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+* [aerodynamics-py/WEATHER\_STATION\_PI](https://github.com/aerodynamics-py/WEATHER_STATION_PI) - A simple weater station
+* [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+* [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+* [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for web automation
+* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
+* [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+* [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
+* [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+* [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
+* [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
+* [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
+* [Sorosliu1029/Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro) - :metro: 即刻 Ⓙ SDK
+* [errord/chbook\_jtoh](https://github.com/errord/chbook_jtoh) - chrome bookmarks json to html
+* [H-T-H/Gemini-Telegram-Bot](https://github.com/H-T-H/Gemini-Telegram-Bot) - 用Gemini API实现的Telegram机器人          A Telegram Bot using Gemini API
+* [yihong0618/tg\_bot\_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
+* [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+* [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
+* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+* [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+* [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
+* [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
+* [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+* [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+* [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
+* [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+* [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
+* [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
+* [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
+* [bitranox/fingerprint](https://github.com/bitranox/fingerprint) - Monitoring Registry and File Changes in Windows
+* [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
+* [AutohomeRadar/Windows-Agent](https://github.com/AutohomeRadar/Windows-Agent) - Windows agent of Open-Falcon Monitor System
+* [jumpserver/applets](https://github.com/jumpserver/applets) - JumpServer Applet Demo Project
+* [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+* [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+* [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+* [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
+* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 企业微信、微信 公众号、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+* [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
+* [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
+* [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 
 ## Visual Basic .NET
 
@@ -549,7 +549,7 @@
 
 ## Swift
 
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 * [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## PHP
@@ -589,6 +589,7 @@
 * [Lyxot/WSAOnWin10](https://github.com/Lyxot/WSAOnWin10) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) and make it run on Win10 with GitHub Actions
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 ## JavaScript
 
@@ -731,7 +732,7 @@
 * [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 * [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
 * [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 * [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 * [maomao1996/mm-notes](https://github.com/maomao1996/mm-notes) - 茂茂物语: 各种笔记记录（想到啥写啥系列）
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -780,7 +781,6 @@
 * [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 * [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 * [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 
