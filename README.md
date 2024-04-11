@@ -10,12 +10,13 @@
 
 ## Table of Contents
 
+* [C#](#c)
+* [PowerShell](#powershell)
 * [miscellaneous](#miscellaneous)
 * [Go](#go)
 * [Python](#python)
 * [Visual Basic .NET](#visual-basic-net)
 * [TypeScript](#typescript)
-* [C#](#c)
 * [Swift](#swift)
 * [PHP](#php)
 * [Jupyter Notebook](#jupyter-notebook)
@@ -24,7 +25,6 @@
 * [JavaScript](#javascript)
 * [C](#c-2)
 * [Vue](#vue)
-* [PowerShell](#powershell)
 * [Rust](#rust)
 * [Lua](#lua)
 * [Shell](#shell)
@@ -52,6 +52,43 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## C\#
+
+* [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
+* [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+* [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+* [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+* [tangmanger/PackageEasy](https://github.com/tangmanger/PackageEasy) - 基于nsis打包工具的可视化开发
+* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+* [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+* [kingpeter2015/QTTabBar](https://github.com/kingpeter2015/QTTabBar) - A continouation of the orignal QTTabBar, which delivers Tabs for the windows Explorer, aiming to fix at least some bugs
+* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+* [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+* [MScholtes/Win-PS2EXE](https://github.com/MScholtes/Win-PS2EXE) - Graphical frontend to PS1-to-EXE-compiler PS2EXE.ps1
+* [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
+* [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+* [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+* [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+## PowerShell
+
+* [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
+* [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
+* [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+* [Kugane/winget](https://github.com/Kugane/winget) - A Winget script to automatically install predefined programs and MS Store apps. Includes automatic update and cleanup job
+* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
+* [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
+* [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
+* [microsoft/PSToolset](https://github.com/microsoft/PSToolset) - Set of tools for Powershell environment
+* [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
+* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
+* [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
+* [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## miscellaneous
 
@@ -413,13 +450,11 @@
 * [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
 * [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
 * [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
-* [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-* [jung-kurt/gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 
 ## Python
 
 * [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
 * [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
 * [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 * [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -429,7 +464,7 @@
 * [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 * [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Copilot for web automation
-* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we deeply wish the open source community contribute to this project.
+* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 * [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 * [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 * [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -528,25 +563,6 @@
 * [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
 * [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 
-## C\#
-
-* [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
-* [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-* [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
-* [tangmanger/PackageEasy](https://github.com/tangmanger/PackageEasy) - 基于nsis打包工具的可视化开发
-* [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-* [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-* [kingpeter2015/QTTabBar](https://github.com/kingpeter2015/QTTabBar) - A continouation of the orignal QTTabBar, which delivers Tabs for the windows Explorer, aiming to fix at least some bugs
-* [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-* [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
-* [MScholtes/Win-PS2EXE](https://github.com/MScholtes/Win-PS2EXE) - Graphical frontend to PS1-to-EXE-compiler PS2EXE.ps1
-* [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
-* [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-* [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-* [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
-* [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-* [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-
 ## Swift
 
 * [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -630,7 +646,7 @@
 * [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 * [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
 * [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
-* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《GO 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
+* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
 * [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
 
 ## C
@@ -665,22 +681,6 @@
 * [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 * [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
-
-## PowerShell
-
-* [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
-* [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-* [Kugane/winget](https://github.com/Kugane/winget) - A Winget script to automatically install predefined programs and MS Store apps. Includes automatic update and cleanup job
-* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
-* [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-* [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
-* [microsoft/PSToolset](https://github.com/microsoft/PSToolset) - Set of tools for Powershell environment
-* [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
-* [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
-* [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
-* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-* [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
-* [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Rust
 
