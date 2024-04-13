@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Vim Script](#vim-script)
 * [TypeScript](#typescript)
 * [C#](#c)
 * [Vue](#vue)
@@ -38,7 +39,6 @@
 * [Crystal](#crystal)
 * [Nim](#nim)
 * [Ruby](#ruby)
-* [Vim Script](#vim-script)
 * [Vim script](#vim-script-1)
 * [Vala](#vala)
 * [Reason](#reason)
@@ -53,8 +53,18 @@
 * [V](#v)
 * [Thanks](#thanks)
 
+## Vim Script
+
+* [vim/vim](https://github.com/vim/vim) - The official Vim repository
+* [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
+* [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+* [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
+* [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+* [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+
 ## TypeScript
 
+* [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 * [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) -
 * [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，更涵盖代码分析转换解析及离线文档等实用功能
@@ -721,7 +731,6 @@
 ## Lua
 
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
-* [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## Shell
 
@@ -768,7 +777,6 @@
 * [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 * [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-* [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 ## Java
 
@@ -816,14 +824,6 @@
 * [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 * [blackstorm/goose](https://github.com/blackstorm/goose) - 🦆 Goose🐦 is a simple and lightweight text style blog application.
 * [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## Vim Script
-
-* [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
-* [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
-* [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
-* [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-* [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Vim script
 
