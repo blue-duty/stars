@@ -18,6 +18,7 @@
 * [PowerShell](#powershell)
 * [miscellaneous](#miscellaneous)
 * [Python](#python)
+* [Svelte](#svelte)
 * [Visual Basic .NET](#visual-basic-net)
 * [Swift](#swift)
 * [PHP](#php)
@@ -155,7 +156,6 @@
 
 * [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式的订阅链接转换为 sing-box 格式的链接，用于 SFA
 * [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
-* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the Web or Microservice
 * [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
@@ -579,6 +579,10 @@
 * [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
+
+## Svelte
+
+* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 
 ## Visual Basic .NET
 
