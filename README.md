@@ -625,7 +625,7 @@
 * [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 * [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 * [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) -
-* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a versatile toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，更涵盖代码分析转换解析及离线文档等实用功能
+* [work7z/LafTools](https://github.com/work7z/LafTools) - The next generation of a AI-based toolbox designed for programmers. 专为高级程序员设计的AI编程工具箱，免费安全开源，更涵盖代码分析转换解析及离线文档等实用功能
 * [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 * [Codennnn/Apifox-UI](https://github.com/Codennnn/Apifox-UI) - 精心仿制 Apifox 界面，使用 Next + Antd + TailwindCSS 开发，源码融入了很多好的编码实践，非常适合 React 新手学习！
 * [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
