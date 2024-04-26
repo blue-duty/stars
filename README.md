@@ -56,6 +56,10 @@
 
 ## Go
 
+* [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
+* [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
+* [signintech/gopdf](https://github.com/signintech/gopdf) - A simple library for generating PDF written in Go lang
+* [go-pdf/fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
 * [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * [go-gorm/datatypes](https://github.com/go-gorm/datatypes) - GORM Customized Data Types Collection
 * [kilosonc/NCMconverter](https://github.com/kilosonc/NCMconverter) - NCMconverter将ncm文件转换为mp3或者flac文件
@@ -330,9 +334,6 @@
 * [ArtisanCloud/PowerWeChat](https://github.com/ArtisanCloud/PowerWeChat) - PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态
 * [royalrick/weapp](https://github.com/royalrick/weapp) - 微信小程序服务端 SDK (for Golang)
 * [xmgtony/apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产级可用golang api服务端(基于gin)
-* [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-* [go-reform/reform](https://github.com/go-reform/reform) - A better ORM for Go, based on non-empty interfaces and code generation.
-* [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 
 ## JavaScript
 
@@ -569,7 +570,6 @@
 * [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 * [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-* [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## miscellaneous
 
