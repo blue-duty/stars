@@ -27,7 +27,6 @@
 * [Vim Script](#vim-script)
 * [TypeScript](#typescript)
 * [PowerShell](#powershell)
-* [Svelte](#svelte)
 * [Visual Basic .NET](#visual-basic-net)
 * [Swift](#swift)
 * [PHP](#php)
@@ -135,6 +134,7 @@
 * [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 * [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式的订阅链接转换为 sing-box 格式的链接，用于 SFA
 * [spiretechnology/go-autostart](https://github.com/spiretechnology/go-autostart) - Library for registering an executable as a startup item
+* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 * [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
@@ -348,7 +348,7 @@
 * [acheong08/ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy) - Simple Cloudflare bypass for ChatGPT
 * [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 * [duxweb/go-storage](https://github.com/duxweb/go-storage) - 💿 go language multi-driver storage package
-* [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analysing the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+* [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analysing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 * [isxuelinme/poe\_unoffical\_api](https://github.com/isxuelinme/poe_unoffical_api) - the POE of Quora golang implement
 * [NullpointerW/golwpush](https://github.com/NullpointerW/golwpush) - A lightweight and high performance  push system implemented by golang
 * [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -749,10 +749,6 @@
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 * [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-
-## Svelte
-
-* [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 
 ## Visual Basic .NET
 
