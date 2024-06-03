@@ -10,19 +10,19 @@
 
 ## Table of Contents
 
+* [JavaScript](#javascript)
+* [C++](#c)
 * [miscellaneous](#miscellaneous)
 * [Go](#go)
-* [JavaScript](#javascript)
 * [Kotlin](#kotlin)
-* [C#](#c)
+* [C#](#c-1)
 * [Shell](#shell)
 * [Java](#java)
 * [AutoIt](#autoit)
 * [PowerShell](#powershell)
 * [TypeScript](#typescript)
 * [Vue](#vue)
-* [C](#c-1)
-* [C++](#c-2)
+* [C](#c-2)
 * [Rust](#rust)
 * [Batchfile](#batchfile)
 * [VBScript](#vbscript)
@@ -56,6 +56,88 @@
 * [Makefile](#makefile)
 * [V](#v)
 * [Thanks](#thanks)
+
+## JavaScript
+
+* [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
+* [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio) - 一个简单的瀑布流摄影作品展示站，图片储存在免费的 Cloudflare R2
+* [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) -
+* [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
+* [ClydeTime/Quantumult](https://github.com/ClydeTime/Quantumult) - 不要fork!不要fork!不要fork!
+* [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
+* [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+* [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
+* [Repcz/Tool](https://github.com/Repcz/Tool) - Ownuse for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
+* [maomao1996/daily-notes](https://github.com/maomao1996/daily-notes) - 不定期更新的日常笔记记录（零零散散啥都记系列）
+* [markdoc/docs](https://github.com/markdoc/docs) - Documentation site for Markdoc
+* [chigozienri/browser-bounce](https://github.com/chigozienri/browser-bounce) - Experiment with multiple browser windows interacting
+* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
+* [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+* [Tobi-davies/Gmail-Clone](https://github.com/Tobi-davies/Gmail-Clone) - A pixel perfect Gmail clone built with react, styled components for styling and redux for state management
+* [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+* [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
+* [ondrajz/goexplorer](https://github.com/ondrajz/goexplorer) - Interactive overview of Go packages using dynamic visualization.
+* [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
+* [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+* [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
+* [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
+* [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+* [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
+* [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
+* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+* [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+* [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+* [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
+* [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+* [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
+* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
+* [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
+* [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
+* [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+* [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
+* [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+* [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
+* [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
+* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
+* [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
+
+## C++
+
+* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+* [fltk/fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
+* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+* [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+* [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+* [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+* [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
+* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+* [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+* [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+* [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+* [Yun-Mao/MFC\_process](https://github.com/Yun-Mao/MFC_process) - Windows下进程通信
+* [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
+* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+* [JonGates/opencc-windows](https://github.com/JonGates/opencc-windows) - 中文字体转换（繁体转简体，简体转繁体）
+* [hiroi-sora/PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json) - OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。
+* [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
+* [hiroi-sora/RapidOCR-json](https://github.com/hiroi-sora/RapidOCR-json) - OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。基于 RapidOcrOnnx 。
+* [Lyxot/WSAOnWin10](https://github.com/Lyxot/WSAOnWin10) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) and make it run on Win10 with GitHub Actions
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+* [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 ## miscellaneous
 
@@ -450,59 +532,6 @@
 * [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 * [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-* [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
-
-## JavaScript
-
-* [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio) - 一个简单的瀑布流摄影作品展示站，图片储存在免费的 Cloudflare R2
-* [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) -
-* [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
-* [ClydeTime/Quantumult](https://github.com/ClydeTime/Quantumult) - 不要fork!不要fork!不要fork!
-* [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
-* [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-* [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
-* [Repcz/Tool](https://github.com/Repcz/Tool) - Ownuse for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
-* [maomao1996/daily-notes](https://github.com/maomao1996/daily-notes) - 不定期更新的日常笔记记录（零零散散啥都记系列）
-* [markdoc/docs](https://github.com/markdoc/docs) - Documentation site for Markdoc
-* [chigozienri/browser-bounce](https://github.com/chigozienri/browser-bounce) - Experiment with multiple browser windows interacting
-* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-* [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-* [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-* [Tobi-davies/Gmail-Clone](https://github.com/Tobi-davies/Gmail-Clone) - A pixel perfect Gmail clone built with react, styled components for styling and redux for state management
-* [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-* [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-* [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
-* [ondrajz/goexplorer](https://github.com/ondrajz/goexplorer) - Interactive overview of Go packages using dynamic visualization.
-* [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
-* [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
-* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-* [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
-* [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-* [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-* [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-* [github-developer/javascript-action](https://github.com/github-developer/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning. An opinionated alternative template to actions/javascript-action to bootstrap the creation of a JavaScript action. 🚀
-* [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-* [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-* [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-* [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-* [drkostas/drkostas.github.io](https://github.com/drkostas/drkostas.github.io) - VScode Portfolio
-* [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-* [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-* [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
-* [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
-* [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
-* [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-* [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
-* [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
-* [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
-* [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
-* [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。
-* [node-webot/co-wechat](https://github.com/node-webot/co-wechat) - Wechat for Koa
 
 ## Kotlin
 
@@ -679,7 +708,6 @@
 * [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 * [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
-* [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
 
 ## Vue
 
@@ -717,34 +745,6 @@
 * [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 * [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
-## C++
-
-* [fltk/fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
-* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-* [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-* [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-* [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-* [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-* [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
-* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-* [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-* [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-* [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
-* [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-* [Yun-Mao/MFC\_process](https://github.com/Yun-Mao/MFC_process) - Windows下进程通信
-* [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
-* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-* [JonGates/opencc-windows](https://github.com/JonGates/opencc-windows) - 中文字体转换（繁体转简体，简体转繁体）
-* [hiroi-sora/PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json) - OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。
-* [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
-* [hiroi-sora/RapidOCR-json](https://github.com/hiroi-sora/RapidOCR-json) - OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。基于 RapidOcrOnnx 。
-* [Lyxot/WSAOnWin10](https://github.com/Lyxot/WSAOnWin10) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) and make it run on Win10 with GitHub Actions
-* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-* [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 ## Rust
 
