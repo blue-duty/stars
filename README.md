@@ -60,6 +60,7 @@
 
 ## Go
 
+* [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 * [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 * [antlabs/quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
@@ -353,7 +354,6 @@
 * [CyanAsterisk/FreeCar](https://github.com/CyanAsterisk/FreeCar) - Time-sharing car rental system suite based on CloudWeGo series framework
 * [Q1mi/bubble](https://github.com/Q1mi/bubble) - a sample demo base on gin and gorm.
 * [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
-* [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 
 ## JavaScript
 
