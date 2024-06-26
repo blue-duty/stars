@@ -60,6 +60,7 @@
 
 ## Kotlin
 
+* [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore link control on Android 12+
 * [mslalith/focus\_launcher](https://github.com/mslalith/focus_launcher) - A minimalist Android Launcher built with Jetpack Compose.
 * [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 * [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
@@ -465,7 +466,6 @@
 * [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 * [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-* [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 
 ## miscellaneous
 
@@ -793,7 +793,7 @@
 * [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 * [jumpserver/VideoPlayer](https://github.com/jumpserver/VideoPlayer) - JumpServer 录像离线播放器
 * [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna 是 JumpServer Web Terminal 前端项目
+* [jumpserver/luna](https://github.com/jumpserver/luna) - Luna is the JumpServer Web Terminal.
 * [gin-admin/gin-admin-react](https://github.com/gin-admin/gin-admin-react) - RBAC scaffolding based on Ant Design React(ES6)
 * [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 * [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
