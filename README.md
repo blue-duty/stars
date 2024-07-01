@@ -431,7 +431,7 @@
 
 ## miscellaneous
 
-* [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
+* [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 * [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) - A central place to document all tweaks required for Komorebi to 'just work' with as many applications as possible
 * [zriyansh/awesome-os](https://github.com/zriyansh/awesome-os) - A collection of all big and small open-source clones of Linux, Windows, and macOS operating system and their software.
 * [ionuttbara/recall-remover](https://github.com/ionuttbara/recall-remover) - Recall Remover its removal of Windows Recall App. Works on ARM and 64-bit PC.
