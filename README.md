@@ -10,6 +10,9 @@
 
 ## Table of Contents
 
+* [Markdown](#markdown)
+* [Shell](#shell)
+* [Objective-C](#objective-c)
 * [Rust](#rust)
 * [Python](#python)
 * [C](#c)
@@ -19,7 +22,6 @@
 * [Jupyter Notebook](#jupyter-notebook)
 * [Go](#go)
 * [Makefile](#makefile)
-* [Shell](#shell)
 * [TypeScript](#typescript)
 * [C++](#c-1)
 * [JavaScript](#javascript)
@@ -49,7 +51,6 @@
 * [Vala](#vala)
 * [Reason](#reason)
 * [Smali](#smali)
-* [Markdown](#markdown)
 * [Mojo](#mojo)
 * [SCSS](#scss)
 * [Pascal](#pascal)
@@ -57,6 +58,38 @@
 * [Handlebars](#handlebars)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Markdown
+
+* [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+* [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
+
+## Shell
+
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
+* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
+* [techknowlogick/xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler
+* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+* [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
+* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
+* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
+* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
+* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
+
+## Objective-C
+
+* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 
 ## Rust
 
@@ -103,7 +136,7 @@
 ## Python
 
 * [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-* [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
+* [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * [ktbyers/netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 * [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 * [Juniper/py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
@@ -679,36 +712,12 @@
 * [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 * [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭 Markdown-Blog 是一款小而美的Markdown静态博客程序 | Markdown-Blog is incredibly fast, easy to use, and converts Markdown formatted text files into beautifully rendered HTML pages.
-* [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
-* [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
 
 ## Makefile
 
 * [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 * [moul/http2curl](https://github.com/moul/http2curl) - :triangular\_ruler: Convert Golang's http.Request to CURL command line
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## Shell
-
-* [dadatuputi/bitwarden\_gcloud](https://github.com/dadatuputi/bitwarden_gcloud) - Bitwarden installation optimized for Google Cloud's 'always free' e2-micro compute instance
-* [Minionguyjpro/NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller) - Installs the Nova Launcher to `/system/app/` on Android. Requires Magisk root!
-* [techknowlogick/xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler
-* [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-* [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-* [vaaandark/dotfiles](https://github.com/vaaandark/dotfiles) - use stow to manager my dotfiles
-* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
-* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
-* [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
-* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-* [BoobooWei/booboo\_mysql](https://github.com/BoobooWei/booboo_mysql) - MySQL 基础教程
-* [yaocccc/yaocccc](https://github.com/yaocccc/yaocccc) -
 
 ## TypeScript
 
@@ -771,7 +780,6 @@
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 * [lzxjack/react-blog](https://github.com/lzxjack/react-blog) - 🖥️react-blog：用React写的一款个人博客系统，有博客展示页面和后台管理页面，可以管理文章、分类、标签、说说、日志、留言、友链等信息。
 * [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF
-* [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 
 ## C++
 
@@ -880,7 +888,7 @@
 * [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
 * [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
 * [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
-* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 * [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
@@ -1067,10 +1075,6 @@
 ## Smali
 
 * [phhusson/treble\_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
-
-## Markdown
-
-* [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 
 ## Mojo
 
