@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Handlebars](#handlebars)
 * [C](#c)
 * [C#](#c-1)
 * [Markdown](#markdown)
@@ -55,9 +56,13 @@
 * [SCSS](#scss)
 * [Pascal](#pascal)
 * [Rich Text Format](#rich-text-format)
-* [Handlebars](#handlebars)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Handlebars
+
+* [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+* [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## C
 
@@ -499,7 +504,7 @@
 * [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 * [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 * [chainreactors/gogo](https://github.com/chainreactors/gogo) - 面向红队的, 高度可控可拓展的自动化引擎
-* [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+* [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 * [antlabs/greatws](https://github.com/antlabs/greatws) - 100w连接仅需500-700MB内存，针对海量连接特别优化的websocket库(kqueue, epoll)，高性能，callback写法，在服务器cpu上有不俗表现 https://github.com/antlabs/greatws-example
 * [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 * [antlabs/timer](https://github.com/antlabs/timer) - High-performance timer implementation based on 5-level time wheel. 高性能定时器(5级时间轮，最小堆)\[从零实现]
@@ -754,7 +759,6 @@
 * [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 * [go-orz/captcha](https://github.com/go-orz/captcha) - a simple captcha
 * [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-* [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 
 ## Makefile
 
@@ -1091,10 +1095,6 @@
 ## Rich Text Format
 
 * [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
-
-## Handlebars
-
-* [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## V
 
