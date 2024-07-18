@@ -180,7 +180,7 @@
 * [oluceps/clash2sing-box](https://github.com/oluceps/clash2sing-box) - Convert clash client outbounds to sing-box format
 * [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) - Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries.
 * [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP\[cluster]/RTSP/WebRTC\[whip/whep]/HTTP-FLV/HLS).🦀
-* [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+* [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 * [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 * [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 * [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
