@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [TeX](#tex)
 * [Handlebars](#handlebars)
 * [C](#c)
 * [C#](#c-1)
@@ -58,6 +59,10 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## TeX
+
+* [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 
 ## Handlebars
 
@@ -758,7 +763,6 @@
 * [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 * [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 * [go-orz/captcha](https://github.com/go-orz/captcha) - a simple captcha
-* [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 
 ## Makefile
 
