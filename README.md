@@ -628,7 +628,7 @@
 * [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
 * [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 * [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
-* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的渗透测试工具，功能涵盖网站扫描、端口扫描、企业信息收集、空间引擎搜索等，希望能帮助你少让你少开几个应用测试
+* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安服集成化工具平台，帮助测试人员减少测试脚本多，使用繁琐问题
 * [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 * [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 * [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
