@@ -14,7 +14,6 @@
 * [Kotlin](#kotlin)
 * [TypeScript](#typescript)
 * [Java](#java)
-* [TeX](#tex)
 * [Handlebars](#handlebars)
 * [C](#c-1)
 * [C#](#c-2)
@@ -213,10 +212,6 @@
 * [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-
-## TeX
-
-* [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 
 ## Handlebars
 
@@ -620,7 +615,7 @@
 * [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 * [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
 * [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
-* [xtaci/gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
+* [xtaci/gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io(proactor) networking for Golang.
 * [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
 * [6tail/lunar-go](https://github.com/6tail/lunar-go) - 日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
@@ -636,7 +631,7 @@
 * [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs.
 * [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 * [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
-* [xtaci/kcp-go](https://github.com/xtaci/kcp-go) -  A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+* [xtaci/kcp-go](https://github.com/xtaci/kcp-go) -  A Crypto-Secure Reliable-UDP Library for golang with FEC
 * [ejoy/goscon](https://github.com/ejoy/goscon) - stable connection
 * [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 * [gobwas/graceful](https://github.com/gobwas/graceful) - A library for graceful restarts in Go.
@@ -942,7 +937,7 @@
 * [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
 * [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
 * [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
-* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 * [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
@@ -1041,6 +1036,7 @@
 * [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 * [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 * [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## Zig
 
