@@ -98,7 +98,7 @@
 
 * [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
 * [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
-* [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+* [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 * [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园等网站,实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
 * [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 * [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
@@ -652,7 +652,7 @@
 * [tianma8023/XposedSmsCode](https://github.com/tianma8023/XposedSmsCode) - :lollipop: An Xposed Module which can recognize, parse verification code and copy it to clipboard when a new message arrives . / 识别短信验证码的Xposed模块，并将验证码拷贝到剪切板。
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 * [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - SThis repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter
-* [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
+* [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）
 * [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 * [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
