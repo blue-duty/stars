@@ -11,14 +11,14 @@
 ## Table of Contents
 
 * [Python](#python)
+* [Swift](#swift)
+* [TypeScript](#typescript)
 * [Vue](#vue)
 * [CSS](#css)
 * [Pascal](#pascal)
-* [TypeScript](#typescript)
 * [Go](#go)
 * [C](#c)
 * [Dart](#dart)
-* [Swift](#swift)
 * [Shell](#shell)
 * [JavaScript](#javascript)
 * [Java](#java)
@@ -61,6 +61,7 @@
 
 ## Python
 
+* [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 * [crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
 * [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（使用cron表达式任务可以精确到分钟），批量群发消息的小工具🚀，并且提供了一个简易直观的界面，可部署到任意平台
 * [0xn0ne/sensitive-helper](https://github.com/0xn0ne/sensitive-helper) - 基于正则表达式的本地文件敏感信息数据挖掘助手。Regular Expression Based Data Mining Assistant for Local File Sensitive Information.
@@ -135,39 +136,19 @@
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 * [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 
-## Vue
+## Swift
 
-* [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 微信公众号文章导出工具，100%还原原文样式
-* [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-* [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
-* [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
-* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-* [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
-* [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
-* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
-* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
-* [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
-* [tiger1103/gfast-ui](https://github.com/tiger1103/gfast-ui) - gfast后台UI界面
-* [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
-
-## CSS
-
-* [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
-* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
-* [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
-* [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-* [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
-* [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
-
-## Pascal
-
-* [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
-* [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) - RDP Wrapper Library
+* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
+* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## TypeScript
 
+* [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 * [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 * [work7z/MDGJX](https://github.com/work7z/MDGJX) - 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！
 * [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
@@ -237,6 +218,37 @@
 * [Crossbell-Box/crossbell.io](https://github.com/Crossbell-Box/crossbell.io) - A decentralized platform to own your social activities 🔔
 * [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [byoungd/modern-vue-template](https://github.com/byoungd/modern-vue-template) - Modern Vue Stack 2022. Joyful development experience 🎉
+
+## Vue
+
+* [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 微信公众号文章导出工具，100%还原原文样式
+* [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+* [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
+* [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
+* [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+* [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+* [ZichunYang/disk-visual-rs](https://github.com/ZichunYang/disk-visual-rs) -
+* [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
+* [ysk2014/webshell](https://github.com/ysk2014/webshell) - 基于node-pty、xterm和vue的web terminal服务
+* [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+* [sonhineboy/gsadmin](https://github.com/sonhineboy/gsadmin) - GIN+SCUI企业级后台管理系统;goland 驱动开发的后台服务，vue3 前端框架开发
+* [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
+* [tiger1103/gfast-ui](https://github.com/tiger1103/gfast-ui) - gfast后台UI界面
+* [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+
+## CSS
+
+* [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
+* [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+* [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+* [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+
+## Pascal
+
+* [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+* [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) - RDP Wrapper Library
 
 ## Go
 
@@ -600,8 +612,6 @@
 * [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
 * [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-* [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
-* [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 
 ## C
 
@@ -645,15 +655,6 @@
 * [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 * [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * [guozhigq/flutter\_v2ex](https://github.com/guozhigq/flutter_v2ex) - 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
-
-## Swift
-
-* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## Shell
 
@@ -948,7 +949,6 @@
 * [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm\_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 * [xxjwxc/uber\_go\_guide\_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 * [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
-* [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 
 ## C\#
 
