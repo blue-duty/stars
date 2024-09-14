@@ -256,7 +256,7 @@
 * [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 * [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 * [crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) - Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
-* [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（使用cron表达式任务可以精确到分钟），批量群发消息的小工具🚀，并且提供了一个简易直观的界面，可部署到任意平台
+* [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（使用cron表达式任务可以精确到分钟），批量群发消息，检查聊天记录的小工具🚀，并且提供了一个简易直观的界面，可部署到任意平台
 * [0xn0ne/sensitive-helper](https://github.com/0xn0ne/sensitive-helper) - 基于正则表达式的本地文件敏感信息数据挖掘助手。Regular Expression Based Data Mining Assistant for Local File Sensitive Information.
 * [m4ll0k/SecretFinder](https://github.com/m4ll0k/SecretFinder) - SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files
 * [309892489/sensitive\_data\_discover](https://github.com/309892489/sensitive_data_discover) - 针对数据库的敏感数据检测脚本：扫描库、schema级别的表或视图的数据，发现其中的敏感字段。敏感类型包括姓名、电话、身份证号、电子邮箱、地址、银行账号。
@@ -323,7 +323,7 @@
 * [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 * [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 * [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz/sz上传下载/动态口令 django
-* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+* [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 * [iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime) - Go编程时光，一个零基础入门 Golang 的教程
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 * [mbroton/chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
