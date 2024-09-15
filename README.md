@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Swift](#swift)
 * [C#](#c)
 * [Kotlin](#kotlin)
 * [TypeScript](#typescript)
@@ -18,7 +19,6 @@
 * [Lua](#lua)
 * [Python](#python)
 * [Go](#go)
-* [Swift](#swift)
 * [JavaScript](#javascript)
 * [Java](#java)
 * [Rust](#rust)
@@ -58,6 +58,18 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Swift
+
+* [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
+* [caol64/wenyan](https://github.com/caol64/wenyan) - Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
+* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
+* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## C\#
 
@@ -152,7 +164,7 @@
 * [work7z/MDGJX](https://github.com/work7z/MDGJX) - 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！
 * [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 * [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, Macos and Linux.
+* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
 * [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 * [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 * [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
@@ -684,17 +696,6 @@
 * [golang/go](https://github.com/golang/go) - The Go programming language
 * [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 
-## Swift
-
-* [caol64/wenyan](https://github.com/caol64/wenyan) - Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
-* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
-* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
 ## JavaScript
 
 * [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -772,7 +773,6 @@
 * [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 * [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 * [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
-* [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 * [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 * [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
@@ -929,7 +929,7 @@
 ## CSS
 
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
-* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
+* [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
 * [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 * [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 * [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
