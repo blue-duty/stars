@@ -183,7 +183,7 @@
 * [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
 * [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 * [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
-* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安服集成化工具平台，帮助测试人员减少测试脚本多，使用繁琐问题
+* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安服集成化工具平台，希望能让你少开几个应用测试
 * [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 * [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 * [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
@@ -332,7 +332,7 @@
 * [youngxhui/GinHello](https://github.com/youngxhui/GinHello) - Gin 学习示例代码
 * [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 * [gourouting/singo](https://github.com/gourouting/singo) - Gin+Gorm开发Golang API快速开发脚手架
-* [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo) - Go 开发工具包
+* [shenghui0779/yiigo](https://github.com/shenghui0779/yiigo) - 一个好用的Go项目脚手架和工具包
 * [wuchihsu/go-ssh-web-client](https://github.com/wuchihsu/go-ssh-web-client) - A simple SSH web client using Go, WebSocket and Xterm.js.
 * [widaT/webssh](https://github.com/widaT/webssh) - 基于xterm.js和golang ssh库实现的web ssh 服务端，支持录像审计，和录像回看
 * [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
