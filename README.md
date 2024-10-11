@@ -150,7 +150,6 @@
 * [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 * [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 * [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-* [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 * [wang0618/mtag\_tool](https://github.com/wang0618/mtag_tool) - MP3 Tag编辑器，支持从网易云补全歌曲信息
 * [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
@@ -451,7 +450,7 @@
 * [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 * [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 * [otiai10/gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
-* [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
+* [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
 * [UiPath/uipathcli](https://github.com/UiPath/uipathcli) - Command line interface to simplify, script and automate API calls for UiPath services (preview)
 * [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -684,7 +683,7 @@
 * [taishan1994/awesome-chinese-ner](https://github.com/taishan1994/awesome-chinese-ner) - 中文命名实体识别。包含目前最新的中文命名实体识别论文、中文实体识别相关工具、数据集，以及中文预训练模型、词向量、实体识别综述等。
 * [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 * [beerisgood/Windows11\_Hardening](https://github.com/beerisgood/Windows11_Hardening) - a collection about Windows 11
-* [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
+* [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) - A central place to document all tweaks required for Komorebi to 'just work' with as many applications as possible
 * [zriyansh/awesome-os](https://github.com/zriyansh/awesome-os) - A collection of all big and small open-source clones of Linux, Windows, and macOS operating system and their software.
 * [ionuttbara/recall-remover](https://github.com/ionuttbara/recall-remover) - Recall Remover its removal of Windows Recall App. Works on ARM and 64-bit PC.
@@ -1100,6 +1099,7 @@
 ## Jupyter Notebook
 
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+* [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 * [loveunk/machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) - 机器学习、深度学习的学习路径及知识总结
 * [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 
