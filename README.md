@@ -571,7 +571,7 @@
 ## Kotlin
 
 * [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-* [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
+* [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
 * [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 雨燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
 * [Kin69/EasyNotes](https://github.com/Kin69/EasyNotes) - EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.
 * [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
