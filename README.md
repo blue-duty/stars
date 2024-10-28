@@ -418,7 +418,7 @@
 * [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 * [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 * [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
-* [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source security log auditing & RDP, VNC, SSH bastion platform, online demo: https://door.casvisor.com
+* [casvisor/casvisor](https://github.com/casvisor/casvisor) - An open-source cloud operating system management platform, online demo: https://door.casvisor.com
 * [judwhite/go-svc](https://github.com/judwhite/go-svc) - Go Windows Service wrapper that plays nice with Linux.
 * [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 * [oschwald/maxminddb-golang](https://github.com/oschwald/maxminddb-golang) - MaxMind DB Reader for Go
