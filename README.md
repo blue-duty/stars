@@ -382,7 +382,6 @@
 * [notcomsed/udpovertcp](https://github.com/notcomsed/udpovertcp) - simple udp in tcp tunnel, udp over tcp, supported win 8.1 win10, Windows, Linux. tunnel udp packge over tcp stream connect written by GO.
 * [mdlayher/vsock](https://github.com/mdlayher/vsock) - Package vsock provides access to Linux VM sockets (AF\_VSOCK) for communication between a hypervisor and its virtual machines.  MIT Licensed.
 * [brave/viproxy](https://github.com/brave/viproxy) - Go TCP proxy library that translates between AF\_INET and AF\_VSOCK.
-* [elastic/beats](https://github.com/elastic/beats) - :tropical\_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 * [Velocidex/evtx](https://github.com/Velocidex/evtx) - Golang Parser for Microsoft Event Logs
 * [petaki/probe](https://github.com/petaki/probe) - 🔎 A monitoring agent.
 * [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
@@ -489,6 +488,7 @@
 * [gphper/ginadmin](https://github.com/gphper/ginadmin) - 基于Gin开发的后台脚手架，集成了、数据库操作、日志管理、权限分配管理、多模板页面、自动分页器、数据库迁移和填充、Docker集成部署等功能、静态资源打包
 * [deepzz0/appdemo](https://github.com/deepzz0/appdemo) - app demo
 * [eiblog/eiblog](https://github.com/eiblog/eiblog) - a fast blog system in golang
+* [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
 
 ## JavaScript
 
@@ -1062,7 +1062,7 @@
 * [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 * [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 * [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-* [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+* [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * [guozhigq/flutter\_v2ex](https://github.com/guozhigq/flutter_v2ex) - 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
 
 ## Shell
