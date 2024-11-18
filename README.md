@@ -62,6 +62,7 @@
 
 ## miscellaneous
 
+* [CatOneTwo/GitHub-Tutorial](https://github.com/CatOneTwo/GitHub-Tutorial) - Getting started tutorial on GitHub
 * [shadowsocksr-rm/shadowsocks-rss](https://github.com/shadowsocksr-rm/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
 * [lijigang/prompts](https://github.com/lijigang/prompts) - 结构化的Prompts, 用于各种大语言模型
 * [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
@@ -484,7 +485,6 @@
 * [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
 * [elza2/go-cyclic](https://github.com/elza2/go-cyclic) - Go 循环依赖检测工具.  import cycle not allowed. cyclic dependency detection tool. go-cyclic tool.
 * [JakeXu/aliyun-sms-sdk-golang](https://github.com/JakeXu/aliyun-sms-sdk-golang) - 基于HTTP协议的阿里云短信服务golang版本实现
-* [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 
 ## Pascal
 
