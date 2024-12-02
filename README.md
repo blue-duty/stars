@@ -11,6 +11,7 @@
 ## Table of Contents
 
 * [miscellaneous](#miscellaneous)
+* [Jupyter Notebook](#jupyter-notebook)
 * [Python](#python)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -26,7 +27,6 @@
 * [PHP](#php)
 * [C#](#c-2)
 * [Kotlin](#kotlin)
-* [Jupyter Notebook](#jupyter-notebook)
 * [PowerShell](#powershell)
 * [Astro](#astro)
 * [Vue](#vue)
@@ -63,6 +63,7 @@
 
 ## miscellaneous
 
+* [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
 * [StarCycle/EmbodiedAI-Reading-List-For-Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists) - It's not a list of papers, but a list of paper reading lists...
 * [stevendborrelli/bluesky-tech-starter-packs](https://github.com/stevendborrelli/bluesky-tech-starter-packs) - A list of tech-related Bluesky starter packs
 * [CatOneTwo/GitHub-Tutorial](https://github.com/CatOneTwo/GitHub-Tutorial) - Getting started tutorial on GitHub
@@ -167,8 +168,19 @@
 * [glycerine/thinkgo](https://github.com/glycerine/thinkgo) - Think Go. Pointers and resources for learning Go. Go (golang) is an elegant, fast, and rapid development language.
 * [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm\_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 
+## Jupyter Notebook
+
+* [charliedream1/ai\_wiki](https://github.com/charliedream1/ai_wiki) - 《AI驯龙笔记》：记载工程实践问题的解决策略与关键要点，分享各种实用案例，追踪前沿技术发展，囊括 AI 全栈知识，涵盖大模型、编程技术、机器学习、深度学习、强化学习、图神经网络、语音识别、NLP 及图像识别等领域
+* [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+* [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+* [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+* [loveunk/machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) - 机器学习、深度学习的学习路径及知识总结
+* [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
+* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+
 ## Python
 
+* [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
 * [showlab/ShowUI](https://github.com/showlab/ShowUI) - Repository for ShowUI: One Vision-Language-Action Model for GUI Visual Agent
 * [harleyszhang/llm\_note](https://github.com/harleyszhang/llm_note) - LLM notes, including model inference, transformer model structure, and lightllm framework code analysis notes
 * [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
@@ -221,7 +233,7 @@
 * [aryanbhajanka/Xenue-Bar](https://github.com/aryanbhajanka/Xenue-Bar) - Xenue bar is a menu bar for Windows inspired by MacOS for better accessibility features and aesthetics. See README.md for more information.
 * [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-* [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+* [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 * [wang0618/mtag\_tool](https://github.com/wang0618/mtag_tool) - MP3 Tag编辑器，支持从网易云补全歌曲信息
 * [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -307,6 +319,7 @@
 * [RSSNext/Followise](https://github.com/RSSNext/Followise) -
 * [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
 * [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
+* [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 * [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 * [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
@@ -480,7 +493,6 @@
 * [boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain) - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
 * [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 * [Mr-xn/sunlogin\_rce](https://github.com/Mr-xn/sunlogin_rce) - 向日葵 RCE
-* [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 * [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 * [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 * [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -835,7 +847,6 @@
 * [jincheng9/go-tutorial](https://github.com/jincheng9/go-tutorial) - Go learning materials，涵盖基础、中级和高级教程
 * [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 * [nuxui/nuxui](https://github.com/nuxui/nuxui) - NuxUI is Golang GUI SDK for IOS, Android, macOS, Windows, Linux
-* [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 
 ## C++
 
@@ -928,8 +939,6 @@
 * [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 * [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-* [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-* [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 
 ## C
 
@@ -1074,15 +1083,6 @@
 * [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 * [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 * [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
-
-## Jupyter Notebook
-
-* [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-* [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-* [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
-* [loveunk/machine-learning-deep-learning-notes](https://github.com/loveunk/machine-learning-deep-learning-notes) - 机器学习、深度学习的学习路径及知识总结
-* [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
-* [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
 
 ## PowerShell
 
