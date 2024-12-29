@@ -232,7 +232,6 @@
 * [knowsuchagency/promptic](https://github.com/knowsuchagency/promptic) - 90% of what you need for LLM app development. Nothing you don't.
 * [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 * [astramind-ai/Auralis](https://github.com/astramind-ai/Auralis) - A Fast TTS Engine
-* [showlab/ShowUI](https://github.com/showlab/ShowUI) - Repository for ShowUI: One Vision-Language-Action Model for GUI Visual Agent
 * [harleyszhang/llm\_note](https://github.com/harleyszhang/llm_note) - LLM notes, including model inference, transformer model structure, and llm framework code analysis notes
 * [maxiee/RaySystem](https://github.com/maxiee/RaySystem) -
 * [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
@@ -453,6 +452,7 @@
 * [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 * [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 * [charliedream1/ai\_wiki](https://github.com/charliedream1/ai_wiki) - 《AI驯龙笔记》：记载工程实践问题的解决策略与关键要点，分享各种实用案例，追踪前沿技术发展，囊括 AI 全栈知识，涵盖大模型、编程技术、机器学习、深度学习、强化学习、图神经网络、语音识别、NLP 及图像识别等领域
+* [showlab/ShowUI](https://github.com/showlab/ShowUI) - Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
 * [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 * [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
