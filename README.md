@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Rust](#rust)
 * [HTML](#html)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -26,7 +27,6 @@
 * [C++](#c-2)
 * [Shell](#shell)
 * [Vue](#vue)
-* [Rust](#rust)
 * [Svelte](#svelte)
 * [Logos](#logos)
 * [TeX](#tex)
@@ -63,6 +63,67 @@
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Rust
+
+* [ihciah/rust2go](https://github.com/ihciah/rust2go) - Call Golang from Rust Asynchronously
+* [retis-org/retis](https://github.com/retis-org/retis) - Tracing packets in the Linux networking stack & friends
+* [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
+* [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
+* [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+* [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+* [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
+* [Exotik850/cleave](https://github.com/Exotik850/cleave) - A blazing-fast, GPU-accelerated screen capture tool written in Rust. Select, crop, and copy screen regions with pixel-perfect accuracy using keyboard shortcuts or mouse controls. 🚀
+* [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+* [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+* [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+* [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)
+* [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+* [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+* [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+* [Relm4/Relm4](https://github.com/Relm4/Relm4) -  Build truly native applications with ease!
+* [codyduong/hitokage](https://github.com/codyduong/hitokage) - A configurable status bar for Windows implemented in Rust
+* [Sulaxan/winbar](https://github.com/Sulaxan/winbar) - A Windows 10/11 Status Bar
+* [ff522/dm-ticket](https://github.com/ff522/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
+* [oluceps/clash2sing-box](https://github.com/oluceps/clash2sing-box) - Convert clash client outbounds to sing-box format
+* [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) - Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries.
+* [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP\[cluster]/RTSP/WebRTC\[whip/whep]/HTTP-FLV/HLS).🦀
+* [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+* [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+* [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+* [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+* [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* [zeyios/weread-pc](https://github.com/zeyios/weread-pc) - 基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。
+* [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
+* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+* [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+* [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+* [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+* [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+* [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+* [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+* [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
+* [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+* [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+* [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+* [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+* [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+* [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+* [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
+* [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 
 ## HTML
 
@@ -771,7 +832,6 @@
 * [LanceLRQ/helang-go](https://github.com/LanceLRQ/helang-go) - Helang, the next generation CYBER programming language!
 * [mix-go/mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
 * [tiger1103/gfast](https://github.com/tiger1103/gfast) - 基于GF(Go Frame)的后台管理系统
-* [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
 ## Python
 
@@ -1162,66 +1222,6 @@
 * [wejectchen/Ginblog](https://github.com/wejectchen/Ginblog) - gin+vue+MySQL全栈制作一个博客
 * [tiger1103/gfast-ui](https://github.com/tiger1103/gfast-ui) - gfast后台UI界面
 * [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
-
-## Rust
-
-* [retis-org/retis](https://github.com/retis-org/retis) - Tracing packets in the Linux networking stack & friends
-* [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
-* [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
-* [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
-* [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
-* [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
-* [Exotik850/cleave](https://github.com/Exotik850/cleave) - A blazing-fast, GPU-accelerated screen capture tool written in Rust. Select, crop, and copy screen regions with pixel-perfect accuracy using keyboard shortcuts or mouse controls. 🚀
-* [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-* [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-* [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
-* [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) - Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)
-* [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-* [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-* [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
-* [Relm4/Relm4](https://github.com/Relm4/Relm4) -  Build truly native applications with ease!
-* [codyduong/hitokage](https://github.com/codyduong/hitokage) - A configurable status bar for Windows implemented in Rust
-* [Sulaxan/winbar](https://github.com/Sulaxan/winbar) - A Windows 10/11 Status Bar
-* [ff522/dm-ticket](https://github.com/ff522/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
-* [oluceps/clash2sing-box](https://github.com/oluceps/clash2sing-box) - Convert clash client outbounds to sing-box format
-* [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) - Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries.
-* [harlanc/xiu](https://github.com/harlanc/xiu) -  A simple,high performance and secure live media server in pure Rust (RTMP\[cluster]/RTSP/WebRTC\[whip/whep]/HTTP-FLV/HLS).🦀
-* [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-* [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-* [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-* [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-* [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-* [zeyios/weread-pc](https://github.com/zeyios/weread-pc) - 基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。
-* [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
-* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-* [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-* [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-* [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-* [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-* [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
-* [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-* [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-* [Daniel-Xu/jay-cli](https://github.com/Daniel-Xu/jay-cli) - Listen music via CLI
-* [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
-* [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-* [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-* [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-* [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-* [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-* [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-* [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 
 ## Svelte
 
