@@ -164,7 +164,7 @@
 
 ## Python
 
-* [browser-use/macOS-use](https://github.com/browser-use/macOS-use) -
+* [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 * [leettools-dev/leettools](https://github.com/leettools-dev/leettools) - AI Search tools.
 * [stephanlensky/zendriver](https://github.com/stephanlensky/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
 * [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
