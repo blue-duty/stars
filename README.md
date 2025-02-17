@@ -500,7 +500,7 @@
 ## Go
 
 * [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
-* [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+* [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 * [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 * [lifei6671/DouYinBot](https://github.com/lifei6671/DouYinBot) - 该项目仅自用，不提供抖音视频下载
 * [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
