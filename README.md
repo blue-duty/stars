@@ -88,7 +88,7 @@
 * [unit-mesh/auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode) - AutoDev -  🧙‍the AI-powered coding wizard . Put the most loved AutoDev AI assistant into your VSCode, and have things done quickly
 * [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) -
 * [cloudflare/openai-workers-relay](https://github.com/cloudflare/openai-workers-relay) - A relay server for OpenAI's realtime API, for Cloudflare Workers
-* [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress is a free blog and CMS system developed using Next.js.（ReactPress是一个基于Next.js的博客\&CMS系统） Live demo：https://blog.gaoredu.com
+* [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress is a free blog and CMS system developed using Next.js.（ReactPress是一个基于Next.js的博客\&CMS系统） Live Demo：https://blog.gaoredu.com
 * [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 * [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 * [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
