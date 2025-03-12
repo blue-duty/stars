@@ -67,7 +67,7 @@
 ## Python
 
 * [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-* [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - like manus and  omniparser.AI-driven local automation assistant that uses natural language to make computers work by themselves
+* [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 * [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
 * [NewAITees/ollama-MCP-server](https://github.com/NewAITees/ollama-MCP-server) -
