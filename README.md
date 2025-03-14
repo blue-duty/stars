@@ -97,7 +97,7 @@
 * [GAIR-NLP/PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World
 * [xlang-ai/aguvis](https://github.com/xlang-ai/aguvis) - Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
 * [arvindrajan92/DTrOCR](https://github.com/arvindrajan92/DTrOCR) - A PyTorch implementation of DTrOCR: Decoder-only Transformer for Optical Character Recognition
-* [shobrook/wut](https://github.com/shobrook/wut) - Terminal assistant for the hopelessly confused
+* [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 * [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 * [whotto/Video\_note\_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图
 * [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
