@@ -528,7 +528,7 @@
 * [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 * [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 * [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial) - Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 * [atlas-comstock/NeteaseCloudMusicFlac](https://github.com/atlas-comstock/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
 * [apple/ml-ferret](https://github.com/apple/ml-ferret) -
 * [GAIR-NLP/PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World
