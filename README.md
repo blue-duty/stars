@@ -40,6 +40,7 @@
 * [Astro](#astro)
 * [Ruby](#ruby)
 * [Lua](#lua)
+* [MDX](#mdx)
 * [Markdown](#markdown)
 * [Makefile](#makefile)
 * [Just](#just)
@@ -47,7 +48,6 @@
 * [Typst](#typst)
 * [AutoIt](#autoit)
 * [VBScript](#vbscript)
-* [MDX](#mdx)
 * [Perl](#perl)
 * [Vim Script](#vim-script)
 * [Visual Basic .NET](#visual-basic-net)
@@ -945,7 +945,6 @@
 * [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 * [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 * [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
-* [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 * [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -1414,6 +1413,11 @@
 * [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
+## MDX
+
+* [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加入吧！
+
 ## Markdown
 
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -1448,10 +1452,6 @@
 ## VBScript
 
 * [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
-
-## MDX
-
-* [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加入吧！
 
 ## Perl
 
