@@ -690,7 +690,7 @@
 * [AllenDang/w32](https://github.com/AllenDang/w32) - A wrapper of windows apis for the Go Programming Language.
 * [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API
 * [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
-* [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. CURRENTLY LOCKED WHILE MIGRATING -> CODEBERG
+* [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 * [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
