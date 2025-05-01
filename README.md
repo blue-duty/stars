@@ -194,7 +194,7 @@
 * [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
 * [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
 * [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-* [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+* [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 * [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
 * [NewAITees/ollama-MCP-server](https://github.com/NewAITees/ollama-MCP-server) -
 * [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
@@ -1510,7 +1510,7 @@
 
 ## Mojo
 
-* [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+* [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## SCSS
 
