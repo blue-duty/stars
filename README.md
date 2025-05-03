@@ -220,7 +220,7 @@
 * [atlas-comstock/NeteaseCloudMusicFlac](https://github.com/atlas-comstock/NeteaseCloudMusicFlac) - 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist.
 * [apple/ml-ferret](https://github.com/apple/ml-ferret) -
 * [GAIR-NLP/PC-Agent](https://github.com/GAIR-NLP/PC-Agent) - PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World
-* [xlang-ai/aguvis](https://github.com/xlang-ai/aguvis) - Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+* [xlang-ai/aguvis](https://github.com/xlang-ai/aguvis) - \[ICML2025] Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
 * [arvindrajan92/DTrOCR](https://github.com/arvindrajan92/DTrOCR) - A PyTorch implementation of DTrOCR: Decoder-only Transformer for Optical Character Recognition
 * [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 * [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -983,7 +983,7 @@
 * [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 * [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 * [zlgopen/awtk-mvvm](https://github.com/zlgopen/awtk-mvvm) - Model-View-ViewModel for AWTK
-* [nir9/lightwm](https://github.com/nir9/lightwm) - Minimalist Tiling Window Manager for Microsoft Windows
+* [nir9/lightwm](https://github.com/nir9/lightwm) - Minimalist Tiling Window Manager for Microsoft Windows (<20KB)
 * [FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit) - iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结
 * [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
 * [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
