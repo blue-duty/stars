@@ -335,7 +335,7 @@
 * [yesAnd92/lwe](https://github.com/yesAnd92/lwe) - a toolbox help developer to leave work early!
 * [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 * [anthdm/go-webkit](https://github.com/anthdm/go-webkit) -
-* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具平台，希望能帮助你少开几个应用测试
+* [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
 * [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 * [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 * [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
@@ -595,7 +595,7 @@
 * [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
 * [NewAITees/ollama-MCP-server](https://github.com/NewAITees/ollama-MCP-server) -
 * [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
-* [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
+* [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 * [qiufengqijun/mini\_qwen](https://github.com/qiufengqijun/mini_qwen) - 这是一个从头训练大语言模型的项目，包括预训练、微调和直接偏好优化，模型拥有1B参数，支持中英文。
 * [ericzakariasson/uber-eats-mcp-server](https://github.com/ericzakariasson/uber-eats-mcp-server) -
 * [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - Knowledge Graph Generation from Any Text
@@ -1009,6 +1009,7 @@
 * [MetaCubeX/clash-verge](https://github.com/MetaCubeX/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 * [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [zerolab-fe/awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs) - ⚡优质的 Node.js 包和资源
 * [open-jike/jike-sdk](https://github.com/open-jike/jike-sdk) - Ⓙ Jike SDK for Node.js / Deno / browser
 * [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -1284,7 +1285,6 @@
 * [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 * [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-* [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [941477276/easy-selector\_chrome-extension](https://github.com/941477276/easy-selector_chrome-extension) - 一个轻巧简单好用的获取dom元素css 选择器的Chrome插件！
 * [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
 * [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
