@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+* [Clojure](#clojure)
 * [Go](#go)
 * [Roff](#roff)
 * [miscellaneous](#miscellaneous)
@@ -66,6 +67,10 @@
 * [V](#v)
 * [Thanks](#thanks)
 
+## Clojure
+
+* [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
 ## Go
 
 * [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool functions.
@@ -114,7 +119,6 @@
 * [go-hotfix/hotfix](https://github.com/go-hotfix/hotfix) - hotfix is a golang function hot-fix solution
 * [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 * [giorgisio/goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg (This repository is no longer maintained)
-* [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 * [bytedance/netcap](https://github.com/bytedance/netcap) -
 * [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -453,7 +457,6 @@
 * [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
 * [lukasjarosch/go-docx](https://github.com/lukasjarosch/go-docx) - Replace placeholders inside docx documents with speed and confidence.
 * [gingfrederik/docx](https://github.com/gingfrederik/docx) - Simple pure Go (golang) library for creating DOCX file
-* [legion-zver/go-docx-templates](https://github.com/legion-zver/go-docx-templates) - \[no longer supported]
 
 ## Roff
 
@@ -1258,6 +1261,7 @@
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 * [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+* [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
 * [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 * [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
