@@ -68,6 +68,9 @@
 
 ## TypeScript
 
+* [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+* [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 * [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
@@ -599,9 +602,6 @@
 * [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) - Go Implementation For Seata
 * [broqiang/mdblog](https://github.com/broqiang/mdblog) - 用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客
 * [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-* [jung-kurt/gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
-* [srinathh/gooxml](https://github.com/srinathh/gooxml) - Pure go library for creating Office Open/OOXML/ECMA-376 documents (.docx, .xlsx, .pptx)
-* [nguyenthenguyen/docx](https://github.com/nguyenthenguyen/docx) - Simple Google Go (Golang) library for replacing text in Microsoft Word (.docx) file
 
 ## Roff
 
@@ -657,7 +657,7 @@
 * [Xposed-Modules-Repo/com.fkzhang.wechatxposed](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed) - WeXposed （微X模块）
 * [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 * [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
-* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 * [shangguanhongxin/for-sing-box-and-surge](https://github.com/shangguanhongxin/for-sing-box-and-surge) - sing-box、surge等的自用规则,自娱自乐，改自blackmatrix7
 * [cstyan/adbDocumentation](https://github.com/cstyan/adbDocumentation) - Better documentation of the ADB protocol, specifically for USB uses.
 * [poochie89/SnipDo-Extensions](https://github.com/poochie89/SnipDo-Extensions) - SnipDo extensions and advanced guide
