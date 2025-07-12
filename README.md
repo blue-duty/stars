@@ -40,7 +40,6 @@
 * [TeX](#tex)
 * [Pascal](#pascal)
 * [PHP](#php)
-* [Vim Snippet](#vim-snippet)
 * [Astro](#astro)
 * [Ruby](#ruby)
 * [Lua](#lua)
@@ -83,6 +82,7 @@
 * [craigsdennis/talk-to-javascript-openai-workers](https://github.com/craigsdennis/talk-to-javascript-openai-workers) - Demonstrates how to protect your OpenAI API Key using a Cloudflare Worker to serve your ephemeral token and then do client side tool calling
 * [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
 * [Peng-YM/Loon-Gallery](https://github.com/Peng-YM/Loon-Gallery) - Loon Plugin Gallery / Loon 插件仓库
+* [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 * [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 * [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -1408,10 +1408,6 @@
 * [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 * [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 * [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
-
-## Vim Snippet
-
-* [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 
 ## Astro
 
