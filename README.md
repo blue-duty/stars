@@ -599,7 +599,7 @@
 * [gosuri/uilive](https://github.com/gosuri/uilive) - uilive is a go library for updating terminal output in realtime
 * [xtaci/kcp-go](https://github.com/xtaci/kcp-go) -  A Crypto-Secure Reliable-UDP Library for golang with FEC
 * [ejoy/goscon](https://github.com/ejoy/goscon) - stable connection
-* [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
+* [selinuxG/Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
 * [gobwas/graceful](https://github.com/gobwas/graceful) - A library for graceful restarts in Go.
 * [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
 * [fantonglang/go-mobile-automation](https://github.com/fantonglang/go-mobile-automation) - 安卓自动化golang SDK，支持云手机，稳定高效且不强依赖ADB
