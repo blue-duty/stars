@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-* [C](#c)
 * [Swift](#swift)
+* [C](#c)
 * [miscellaneous](#miscellaneous)
 * [JavaScript](#javascript)
 * [Shell](#shell)
@@ -61,10 +61,46 @@
 * [Reason](#reason)
 * [Smali](#smali)
 * [Mojo](#mojo)
-* [SCSS](#scss)
 * [Rich Text Format](#rich-text-format)
 * [V](#v)
 * [Thanks](#thanks)
+
+## Swift
+
+* [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+* [musamatini/WrapKey](https://github.com/musamatini/WrapKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
+* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
+* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
+* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
+* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
+* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
+* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
+* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
+* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
+* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
+* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
+* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
+* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+* [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
+* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
+* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
+* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## C
 
@@ -108,42 +144,6 @@
 * [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 * [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
-
-## Swift
-
-* [musamatini/WrapKey](https://github.com/musamatini/WrapKey) - The Ultimate Hotkey Manager for Your Apps, Files, URLs, and Scripts.
-* [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-* [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-* [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-* [jaywcjlove/rightmenu-master](https://github.com/jaywcjlove/rightmenu-master) - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
-* [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-* [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-* [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
-* [Lakr233/WindowAnimation](https://github.com/Lakr233/WindowAnimation) - Provide animation when animating SwiftUI windows on macOS.
-* [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
-* [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
-* [osy/Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device
-* [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-* [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
-* [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-* [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
-* [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
-* [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
-* [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
-* [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-* [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
-* [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
-* [caol64/wenyan](https://github.com/caol64/wenyan) - 文颜- Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
-* [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
-* [kareman/SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting.
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-* [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-* [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 ## miscellaneous
 
@@ -551,7 +551,7 @@
 * [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 * [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 * [natefinch/npipe](https://github.com/natefinch/npipe) - A Windows named pipe implementation written in pure Go.
 * [gioui/gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
@@ -1298,7 +1298,6 @@
 * [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 * [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-* [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 ## Jupyter Notebook
 
@@ -1484,6 +1483,7 @@
 * [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 * [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 * [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 * [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## Crystal
@@ -1515,10 +1515,6 @@
 ## Mojo
 
 * [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
-
-## SCSS
-
-* [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 
 ## Rich Text Format
 
