@@ -27,13 +27,13 @@
 * [Dockerfile](#dockerfile)
 * [Java](#java)
 * [Rust](#rust)
-* [HTML](#html)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Haskell](#haskell)
 * [Dart](#dart)
 * [Objective-C](#objective-c)
 * [Zig](#zig)
 * [PowerShell](#powershell)
+* [HTML](#html)
 * [Vue](#vue)
 * [Svelte](#svelte)
 * [Logos](#logos)
@@ -979,6 +979,7 @@
 * [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 * [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 * [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
+* [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
 * [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 * [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) - A simple CLI to run LLM prompt and implement MCP client.
@@ -1280,26 +1281,6 @@
 * [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 * [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
-## HTML
-
-* [Suxiaoqinx/Netease\_url](https://github.com/Suxiaoqinx/Netease_url) - 网易云无损解析
-* [xiongcccc/xiongcccc.github.io](https://github.com/xiongcccc/xiongcccc.github.io) -
-* [youngyt/LinuxOS\_Course](https://github.com/youngyt/LinuxOS_Course) - 《Linux操作系统》课程资料
-* [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
-* [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
-* [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-* [Guyungy/damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
-* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-* [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
-* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
-* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-* [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-* [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-* [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
 ## Jupyter Notebook
 
 * [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
@@ -1366,6 +1347,25 @@
 * [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 * [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
+
+## HTML
+
+* [xiongcccc/xiongcccc.github.io](https://github.com/xiongcccc/xiongcccc.github.io) -
+* [youngyt/LinuxOS\_Course](https://github.com/youngyt/LinuxOS_Course) - 《Linux操作系统》课程资料
+* [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+* [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC
+* [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+* [Guyungy/damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
+* [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
+* [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
+* [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas) - 云计算指南
+* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
+* [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+* [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+* [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
 ## Vue
 
